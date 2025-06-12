@@ -1,6 +1,8 @@
 #德州扑克源码（客户端+服务器+运营后台）（完整德州项目的源码）
 本仓库提供了一个完整的德州扑克纸牌游戏的源码，也是一个完整的德州金币大厅游戏，里面有多种德州玩法有经典德州，AOF，短牌单桌竞标赛，多桌竞标赛，以及俱乐部，客户端采用unity语言编写，服务器c++。日流几十万美元的项目，可以上线ios和googleplay，该源码可以直接运行，
-TG：@alibabama401或邮箱：ttpoker40@gmail.com
+TG：@alibabama401或邮箱：ttpoker40@gmail.com；
+
+如果你的银子买不起全套，也可以单独出售客户端或服务器的源码以便学习参考；
 
 
 ![大厅-俱乐部](https://github.com/user-attachments/assets/f163af9e-1f35-4bb2-89db-bceca0c37e0f)
